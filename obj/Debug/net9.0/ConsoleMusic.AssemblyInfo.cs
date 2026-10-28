@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleMusic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59ced7031d7232b94a6fa204e0df657c1c4270d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleMusic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleMusic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
