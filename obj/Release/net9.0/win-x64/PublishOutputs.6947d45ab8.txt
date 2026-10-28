@@ -1,0 +1,2 @@
+C:\Users\WinterOS\Desktop\ConsoleMusic\bin\Release\net9.0\win-x64\publish\ConsoleMusic.pdb
+C:\Users\WinterOS\Desktop\ConsoleMusic\bin\Release\net9.0\win-x64\publish\ConsoleMusic.exe
